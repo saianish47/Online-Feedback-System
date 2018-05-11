@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app >
+
+  
+  <servlet>
+   <servlet-name>sur1</servlet-name>
+   <servlet-class>sur1</servlet-class><!-- This is the name of class in java file-->
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>sur1</servlet-name>
+   <url-pattern>/sur1</url-pattern>
+</servlet-mapping>
+
+
+</web-app>
